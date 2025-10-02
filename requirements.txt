@@ -1,4 +1,4 @@
-https://github.com/ishwar0980/pyrogram/archive/refs/heads/dev.zip
+https://github.com/lx0980/pyrogram/archive/refs/heads/dev.zip
 TgCrypto==1.2.5
 Flask==3.0.3
 gunicorn==22.0.0
