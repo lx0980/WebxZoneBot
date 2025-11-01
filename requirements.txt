@@ -1,4 +1,4 @@
-https://github.com/lx0980/pyrogram/archive/refs/heads/dev.zip
+kurigram==2.2.13
 TgCrypto==1.2.5
 Flask==3.0.3
 gunicorn==22.0.0
